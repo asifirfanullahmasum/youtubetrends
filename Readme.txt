@@ -11,5 +11,6 @@ Step 2: Upload the dataset files (US_category_id.json, USvideos.csv) to google d
 	'MyDrive/Dataset - Adv. Big Data/USvideos.csv'
 Step 3: Run each cell
 
-Note: I have also shared the downloaded script for the project along with the dataset.
+Note: Results of this project can also be viewed Trending_Youtube_Video_Analysis_US_A_Masum.ipynb in this repository
+
 
